@@ -79,7 +79,7 @@ We provide part of our experiment result as below.
 - Detailed results of ablation study.
 <img src="https://github.com/ANONYEXP/IMG/blob/main/MULSUM/ablation_study.png" width="70%" height="70%" alt="Ablation study">
 
-- Detailed results of investigation on the model size.
+- Detailed results of investigation on the model size. Note that, this work considers the number of trainable parameters in the encoder and decoder as model size to facilitate observation in the following tables.
 <img src="https://github.com/ANONYEXP/IMG/blob/main/MULSUM/performance_wrt_enc_layer.png" width="70%" height="70%" alt="performance_wrt_enc_layer">
 <img src="https://github.com/ANONYEXP/IMG/blob/main/MULSUM/performance_wrt_dec_layer.png" width="70%" height="70%" alt="performance_wrt_dec_layer">
 <img src="https://github.com/ANONYEXP/IMG/blob/main/MULSUM/performance_wrt_emb_size.png" width="70%" height="70%" alt="performance_wrt_emb_size">
