@@ -1,4 +1,4 @@
-# HetCoSum
+# MulSum
 This is the source code of MulSum model.
 
 # Runtime Environment
